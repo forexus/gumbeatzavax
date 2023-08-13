@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa2af124584157758a7e3340ee73ef8b69798d7d8",
+  "SCAN_LINK": "https://polygonscan.com/token/0xa2af124584157758a7e3340ee73ef8b69798d7d8",
+  "NETWORK": {
+    "NAME": "Avalanche Network C-Chain",
+    "SYMBOL": "AVAX",
+    "ID": 43114
+  },
+  "NFT_NAME": "GumBeatz",
+  "SYMBOL": "BEATZ",
+  "MAX_SUPPLY": 555,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.69,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Salvor",
+  "MARKETPLACE_LINK": "https://salvor.io/collections/0xa2af124584157758a7e3340ee73ef8b69798d7d8",
+  "SHOW_BACKGROUND": true
+}
